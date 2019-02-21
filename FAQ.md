@@ -1,14 +1,14 @@
 # FAQ Find The Rabbit
 
-### 1. **How to play?**
-    - Please have a look at [screencast](https://youtube.com)
+### 1. How to play?
+  - Please have a look at [screencast](https://youtube.com)
 
-### 2. **What are the game rules?**
-    - There are two roles in each game: *Host* and *Join*. *Host* has to make a choice where to hide the rabbit, left or right, and to select a bet to place. Once *Host* publishes the game, it’s broadcasted as available to join to all online players.
-    - *Join* has to select a game he/she wants to join with an appropriate bet amount. Then he/she needs to guess where *Host* has hidden the rabbit, left or right, and click *Join*.
-    - *Host* receives the message that someone is willing to join his game and has to click "Accept" if he is comfortable with the reputation of the Join player by evaluating it by *Join's* total games and number of disputes. Once *Host* accepts it, both players have to send funds to the smart contract.
-    - Reveal stage. Each player checks the smart contract automatically. Once they see the smart contract has received funds from their opponent, they reveal their secrets to each other. 
-    - Finally, one of them doubles its bet by winning and making a transaction to take the profit.
+### 2. What are the game rules?
+  - There are two roles in each game: *Host* and *Join*. *Host* has to make a choice where to hide the rabbit, left or right, and to select a bet to place. Once *Host* publishes the game, it’s broadcasted as available to join to all online players.
+  - *Join* has to select a game he/she wants to join with an appropriate bet amount. Then he/she needs to guess where *Host* has hidden the rabbit, left or right, and click *Join*.
+  - *Host* receives the message that someone is willing to join his game and has to click "Accept" if he is comfortable with the reputation of the Join player by evaluating it by *Join's* total games and number of disputes. Once *Host* accepts it, both players have to send funds to the smart contract.
+  - Reveal stage. Each player checks the smart contract automatically. Once they see the smart contract has received funds from their opponent, they reveal their secrets to each other. 
+  - Finally, one of them doubles its bet by winning and making a transaction to take the profit.
     
 3. **Which cryptocurrencies can I use to bet with?**
     - The game supports POA.network, Ethereum mainnet, and testnets. All you need is a native cryptocurrency for one of the supported networks and web3-compatible wallet to play (e.g., [metamask](https://metamask.io/)).
