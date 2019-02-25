@@ -2,7 +2,7 @@
 
 ## What you'll need
 
-### 1. Dapp-compatible browser plugin
+### Dapp-compatible browser plugin
 Since its cryptocurrency you will make your bets with, you will need a browser plugin that will help operate with the tokens and sign transactions. We personally recommend [MetaMask](https://metamask.io/). Or you can use any other Dapp compatible plugin to your tasting.
 
 If you follow our recommendations, **install the plugin to your browser** and **create an account there**.
@@ -63,7 +63,7 @@ Every player has limited time to reveal the secret (2 minutes). Once the time ha
 
 If you were *Host* awaiting other players to play with, all your games will be saved in the browser cache and the *Game Oracle* will make them offline. If there are some in-play games, we highly recommend you not go offline because you might lose them if the other person opens a dispute against you for not revealing a secret.
 
-> ### 9. Jackpot mechanism
+> ### 7. Jackpot mechanism
 
 Each last completed game takes part in Jackpot drawing - if there are no other games finished before Jackpot Draw date, then participants share Jackpot 50/50. Each next game adds 5 minutes to Jackpot Draw date. That scheme is also known as FOMO3d.
 
