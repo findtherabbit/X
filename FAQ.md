@@ -1,7 +1,4 @@
-# 1FAQ Find The Rabbit
-
-## Demo
-    - Please have a look at [screencast](https://youtube.com)
+# FAQ Find The Rabbit
 
 ## What you'll need
 
