@@ -16,7 +16,6 @@ During the creation of your account, you will be shown your seed phrase – plea
 
 - There are two roles in each game: *Host* and *Join*. *Host* has to make a choice where to hide the rabbit, left or right, and to select a bet to place. Once *Host* has created the game, it’s broadcasted as available to join to all online players.
 
-![](https://i.imgur.com/QtUk8Kk.jpg)
 
 - *Join* has to select a game he/she wants to join with an equivalent bet amount. Then *Join* needs to guess where *Host* has hidden the rabbit, left or right, and click *Join*.
 
