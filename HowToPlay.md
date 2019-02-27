@@ -14,7 +14,7 @@ If you are more of a mobile gaming guy, please use the [Trust Wallet](https://tr
 ### Login
 
 Sure thing, the first thing to do is to login on the "Find The Rabbit" website.
-1. Go to https://findtherabbit.me
+1. Go to [https://findtherabbit.me](https://findtherabbit.me)
 
 2. Click the "Login" button.
 
