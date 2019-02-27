@@ -74,4 +74,4 @@ Yes, there is one. And quite a convenient one, we could boast. To use the advant
 
 2. Go to your profile page at the [findtherabbit.me](https://findtherabbit.me/profile). 
 
-3. Copy your unique referral link with your friends, mates, and pals.
+3. Copy your unique referral link and play with your friends, mates, and pals.
