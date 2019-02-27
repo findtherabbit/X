@@ -59,7 +59,7 @@ Let's say a host places a bet of 10 ETH to play the game. Join accepts it and lo
 > ### 5. What happens if my opponent doesn't reveal the secret? 
 Every player has limited time to reveal the secret (2 minutes). Once the time has passed, the player can open a dispute by making a transaction to the Smart Contract. Then the opponent receives a notification that the dispute opener has created the dispute against him/her. The disputant has 5 minutes to resolve the dispute if it has any relevance for him/her to do so because at that time the secret can be seen at the other player's onchain. So, the disputant still has a chance to win the game. If the disputant sees the loss is inevitable, the dispute opener has to wait 5 minutes to pass and only then he/she can make a transaction to take the profit.
 
-> ### 6. What happends if I go offline?
+> ### 6. What happens if I go offline?
 
 If you were *Host* awaiting other players to play with, all your games will be saved in the browser cache and the *Game Oracle* will make them offline. If there are some in-play games, we highly recommend you not go offline because you might lose them if the other person opens a dispute against you for not revealing a secret.
 
