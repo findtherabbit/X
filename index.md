@@ -1,3 +1,17 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <meta property="og:title" content="Find The Rabbit Blog">
+    <meta property="og:description" content="Perfect Dapp with true, unhackable randomness">
+    <meta property="og:url" content="https://findtherabbit.me">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://github.com/findtherabbit/wiki/raw/master/pictures/tw_2.png">
+    <meta name="description" content="The objective of the game is to guess correctly where your opponent chose to hide the rabbit in or you could also opt to be a game host and hide the rabbit yourself.">
+    <meta name="keywords" content="dapp, smart contract, decentralized, metamask, crypto">
+    <link rel="shortcut icon" href="https://findtherabbit.me/favicon.ico">
+</head>
+
 # "Find The Rabbit" is finally here.
 ![](https://github.com/findtherabbit/wiki/raw/master/pictures/tw_2.png)
 
