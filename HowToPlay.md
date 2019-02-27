@@ -28,7 +28,7 @@ Easy peasy. And from here **the actual fun begins**.
 
 Ready to take the initiative? Here is what you need to do:
 <p align="center">
-  <img src="https://github.com/findtherabbit/findtherabbit.me/blob/faq/gifs/hostGame.gif" width="800">
+  <img src="https://raw.githubusercontent.com/findtherabbit/findtherabbit.me/faq/gifs/hostGame.gif" width="800">
 </p>
 
 **Step 1.** Make your choice – the rabbit goes into the left hat or into the right one?
