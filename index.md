@@ -1,4 +1,4 @@
-# "Find The Rabbit" is finally here. </h1>
+# "Find The Rabbit" is finally here.
 ![](https://github.com/findtherabbit/wiki/raw/master/pictures/tw_2.png)
 
 *Take the role of one of the players who either hides or looks for an adorable little fluff in one of two magic hats and win the bet!* 
