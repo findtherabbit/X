@@ -60,7 +60,7 @@ Once your opponent is matched, you will then be prompted to sign a transaction t
 
 **1% of the fee** of each game is sent to the Jackpot. In the right part of the page you can see a timer that is counting down the time before Jackpot is paid to the last pair of players. Every game played increases the countdown time.
 
-![](https://i.imgur.com/Gj2OT4A.png)
+![](https://github.com/findtherabbit/wiki/raw/master/pictures/main.png)
 
 
 It is imperative to note that **your hat choice is never stored online until you sign a transaction and send funds**. This way no one (not even us - game developers) can know what is the right answer is until both players send and sign transactions. 
