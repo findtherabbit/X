@@ -75,3 +75,9 @@ Yes, there is one. And quite a convenient one, we could boast. To use the advant
 2. Go to your profile page at the [findtherabbit.me](https://findtherabbit.me/profile). 
 
 3. Copy your unique referral link and play with your friends, mates, and pals.
+
+> ### 9. How to get unique referral URL?
+  - Click `Profile` link. Click `Copy Referral link` button
+
+> ### 10. Why can't I use multiple tabs?
+  - We highly encorage you to only use 1 tab per browser in order to provide the best user exprience. The game could have unexpected behaviour if there is more than 1 tab open.
