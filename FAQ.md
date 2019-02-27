@@ -72,7 +72,7 @@ Each last completed game takes part in Jackpot drawing - if there are no other g
 Yes, there is one. And quite a convenient one, we could boast. To use the advantages it offers:
 1. Play at least one game to be qualified to sharing a refferal link.
 
-2. Go to your profile page at the [findtherabbit.me](https://findtherabbit.me/profile). 
+2. Go to your profile page at the [findtherabbit.me](https://findtherabbit.me). 
 
 3. Copy your unique referral link and play with your friends, mates, and pals.
 
