@@ -95,7 +95,9 @@ If the game was played using referral link, then the referrer will earn one perc
 This game is perfect for those who want to enjoy the rush of adrenaline. Find The Rabbit is an Ethereum (or POA)  game which randomness is powered by human choice and hence couldn't be hacked by another human nor a bot. It has a 50% chance of winning and allows the player to participate in a FOMO3D style jackpot raffle. We are in love with this surprised filled Dapp that  promises fun and winning opportunities. Come and find out more at <a href="https://findtherabbit.me/">findtherabbit.me</a>
 
 
+### Useful links
 
-
-[How to play](HowToPlay.html)  
-[FAQ](FAQ.html)
+ - [How to play](HowToPlay.html)  
+ - [FAQ](FAQ.html)
+ - [Eth mainnet](https://etherscan.io/address/0x2e9494387868eb9ec6997b711d655de82f53713f)
+ - [POA mainnet](https://blockscout.com/poa/core/address/0x152d57780ff1da6fa08e2c4bc4c739ea6f001e8c/transactions)
