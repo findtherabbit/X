@@ -1,0 +1,15 @@
+name: Find The Rabbit - Blog
+
+# Short bio or description (displayed in the header)
+description: The objective of the game is to guess correctly where your opponent chose to hide the rabbit in or you could also opt to be a game host and hide the rabbit yourself.
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://github.com/findtherabbit/wiki/raw/master/pictures/tw_2.png
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: contact@findtherabbit.me
+  # facebook:
+  github: findtherabbit
+  twitter: FindRabbitDapp
+  # youtube: # channel/<your_long_string> or user/<user-name>
