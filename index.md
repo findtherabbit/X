@@ -110,7 +110,7 @@ This game is perfect for those who want to enjoy the rush of adrenaline. Find Th
 
 
 ### Useful links
-
+ - [Techinical details](TechnicalDetails.html)  
  - [How to play](HowToPlay.html)  
  - [FAQ](FAQ.html)
  - [Eth mainnet](https://etherscan.io/address/0x2e9494387868eb9ec6997b711d655de82f53713f)
