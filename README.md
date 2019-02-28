@@ -1,6 +1,6 @@
 ### Find The Rabbit
 
-https://findtherabbit.me/
+https://findtherabbit.me/  
 
-Docs
+Docs  
 https://findtherabbit.github.io/wiki/
