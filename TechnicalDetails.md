@@ -72,5 +72,8 @@ Opened dispute can be closed by dispute opener or resolved by opponent:
 * Closing Dispute. If the opponent doesn't resolve the dispute on time (5 minutes), the dispute opener can call `closeDisputeOnTimeout` to become a winner in the game. 
 https://etherscan.io/tx/0xc269952867cbad250aee7daa6d59377a67b626268cb80c600c6e847188f8c917
 ```
-0	_gameId	bytes32	d13b28ea8eb2f0b56198f9dfe37eb971c61b1e3530f077cc097070e7a321997b
+0 _gameId bytes32 d13b28ea8eb2f0b56198f9dfe37eb971c61b1e3530f077cc097070e7a321997b
 ```
+
+**Note.**
+All required actions like calling smart contract or keeping track of smart contract state are implemented on client side of Find The Rabbit game (and on Game Oracle side actually), so user will be prompted for any neccessary interactions.
