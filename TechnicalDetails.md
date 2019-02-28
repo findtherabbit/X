@@ -27,11 +27,11 @@ sends it to *Game Oracle* to notify the Join.
 4. Commit phase. Both players should send eth transaction into the network.
 https://etherscan.io/tx/0xa3ad2ddc8414756e2dc8f2ab483e694bd6a2636d827acd47318f6e935c24973a
 ```
-0	_isHost	              bool	  false
-1	_hashOfMySecret	      bytes32	d5229005f43a51f2ae3c360f52cec0ead3e0229b653bd6c875a3beed3a3e7515
+0	_isHost	               bool	  false
+1	_hashOfMySecret	       bytes32	d5229005f43a51f2ae3c360f52cec0ead3e0229b653bd6c875a3beed3a3e7515
 2	_hashOfOpponentSecret	bytes32	d247d558e10bf6044ad63f8f0d05faf9438f782e70cbd87e4eddfb1bb3ef8b28
-3	_hostSignature	      bytes	   b193c61814ff29a5cd854bed0904f93326d1cb308ccb04b2190664f89c4bb69d5e09a73c8d26586f56b31c73720779c298e4191184dad57d984c58dd7d6e2fa51c
-4	_joinSignature	      bytes	    7a524dca250b646d7f0a241645fb6567c4d5ef5cf3a4c80077ccbab1f53a6d5858e33e265df1d0f390238a7fa058a7eb5e2ba34e08c37103c606707b01c37e361b
+3	_hostSignature	       bytes	  b193c61814ff29a5cd854bed0904f93326d1cb308ccb04b2190664f89c4bb69d5e09a73c8d26586f56b31c73720779c298e4191184dad57d984c58dd7d6e2fa51c
+4	_joinSignature	       bytes	  7a524dca250b646d7f0a241645fb6567c4d5ef5cf3a4c80077ccbab1f53a6d5858e33e265df1d0f390238a7fa058a7eb5e2ba34e08c37103c606707b01c37e361b
 ```
 At this stage, contract validates all parameters:
 * Players' addresses
