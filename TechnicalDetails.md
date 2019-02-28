@@ -54,6 +54,19 @@ Disputes.
 1. Cancel transaction. If Host or Join didn't receive a transaction to fund the game, he/she can cancel the game and get a full refund,
 after `timeUntilCancel` function reaches `0`.
 2. Reveal is not received. If Host or Join didn't receive a reveal, he/she can call `openDispute` to start dispute only
-after `timeUntilOpenDispute` reaches `0`.
+after `timeUntilOpenDispute` reaches `0`. The dispute opener should reveal on-chain at this stage.
+```
+0	_gameId	bytes32	de346b0603be205b9ca4be9363089d58510f068837ad091c00bcefa1bb5d3f46
+1	_secret	uint8	1
+2	_salt	bytes32	1962f9d0581efdf52597cd0c199e7f5e23a5cd9c87258ea2a7eb01910abceea4
+3	_isHost	bool	true
+4	_hashOfOpponentSecret	bytes32	803cce932639aeae95d449a01b8ed52794b19f2cc039c058cfdedcd00fe461e9
+```
+https://etherscan.io/tx/0xd0efa4f200e103095d1e149af79fc15e7b41b1908c3321bf7b02d1d77dc6063e
+
 3. Closing Dispute. If the opponent doesn't resolve the dispute on time, the dispute opener can call `closeDisputeOnTimeout` 
 to become a winner in the game. 
+https://etherscan.io/tx/0xc269952867cbad250aee7daa6d59377a67b626268cb80c600c6e847188f8c917
+```
+0	_gameId	bytes32	d13b28ea8eb2f0b56198f9dfe37eb971c61b1e3530f077cc097070e7a321997b
+```
