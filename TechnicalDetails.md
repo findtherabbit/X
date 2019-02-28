@@ -76,4 +76,4 @@ https://etherscan.io/tx/0xc269952867cbad250aee7daa6d59377a67b626268cb80c600c6e84
 ```
 
 **Note.**
-All required actions like calling smart contract or keeping track of smart contract state are implemented on client side of Find The Rabbit game (and on Game Oracle side actually), so user will be prompted for any neccessary interactions.
+All required actions like calling smart contract or keeping track of smart contract state are implemented on client side of Find The Rabbit game (and on Game Oracle side actually), so user will be prompted for any neccessary interactions. Happy hunting!
