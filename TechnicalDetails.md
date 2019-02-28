@@ -7,7 +7,7 @@ hostSalt = randomHex(32) // localStorage
 hashOfHostSecret = soliditySha3(secret, salt) // publicly sent value
 ```
 
-2. To accept the game, *Join* has to generate his own secret for that game, random salt, hash, and a signature using [EIP-721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-712.md)
+2. To accept the game, *Join* has to generate his own secret for that game, random salt, hash, and a signature using [EIP-712](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-712.md)
 ```js
 joinSecret = 1 // localStorage
 joinSalt = randomHex(32) // localStorage
