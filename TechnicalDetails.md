@@ -76,3 +76,10 @@ An opened dispute can be closed by the dispute opener or resolved by the opponen
 
 **Note.**
 All the required actions like calling the art contract or keeping track of its state are implemented on the client side of the Find The Rabbit game (and on the *Game Oracle* side actually), so a user will be prompted for any necessary interactions. Happy hunting!
+
+### Useful links
+ - [Home](index.html)  
+ - [How to play](HowToPlay.html)  
+ - [FAQ](FAQ.html)
+ - [Eth mainnet](https://etherscan.io/address/0x2e9494387868eb9ec6997b711d655de82f53713f)
+ - [POA mainnet](https://blockscout.com/poa/core/address/0x152d57780ff1da6fa08e2c4bc4c739ea6f001e8c/transactions)
