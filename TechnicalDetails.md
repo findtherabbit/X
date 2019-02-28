@@ -15,7 +15,7 @@ hashOfJoinSecret = soliditySha3(secret, salt) // publicly sent value
 joinSignature = sign(hashOfHostSecret, isHost: false, hostAddress, hashOfJoinSecret, betAmount)
 ```
 
-3. *Host* receives a request from the *Game Oracle* and decides if whether to play with *Join* considering the latter's statistics:
+3. *Host* receives a request from the *Game Oracle* and decides whether to play with *Join* considering the latter's statistics:
 * total games;
 * total disputes.
 Once accepted *Host* generates the signature:
@@ -75,7 +75,7 @@ An opened dispute can be closed by the dispute opener or resolved by the opponen
 ```
 
 **Note.**
-All the required actions like calling the art contract or keeping track of its state are implemented on the client side of the Find The Rabbit game (and on the *Game Oracle* side actually), so a user will be prompted for any necessary interactions. Happy hunting!
+All the required actions like calling the smart contract or keeping track of its state are implemented on the client side of the Find The Rabbit game (and on the *Game Oracle* side actually), so a user will be prompted for any necessary interactions. Happy hunting!
 
 ### Useful links
  - [Home](index.html)  
