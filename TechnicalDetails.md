@@ -25,7 +25,7 @@ hostSignature = sign(hashOfHostSecret, hashOfJoinSecret, isHost: true, joinAddre
 and sends it to *Game Oracle* to notify *Join*.
 
 4. Commit phase. Both players send their eth transaction to the network.
-https://etherscan.io/tx/0xa3ad2ddc8414756e2dc8f2ab483e694bd6a2636d827acd47318f6e935c24973a
+[https://etherscan.io/tx/0xa3ad2ddc8414756e2dc8f2ab483e694bd6a2636d827acd47318f6e935c24973a](https://etherscan.io/tx/0xa3ad2ddc8414756e2dc8f2ab483e694bd6a2636d827acd47318f6e935c24973a)
 ```
 0 _isHost                bool     false
 1 _hashOfMySecret        bytes32  d5229005f43a51f2ae3c360f52cec0ead3e0229b653bd6c875a3beed3a3e7515
@@ -42,7 +42,7 @@ At this stage, the contract validates all parameters:
 they reveal their `secret` and `salt` to the *Game Oracle*.
 
 6. Reward phase. *Host* or *Join* calls the `win` function on the smart contract 
-https://etherscan.io/tx/0xc58bf999ba545b270ce00e45cf427bd36db4d556e7713616c8514b8beadec6f5
+[https://etherscan.io/tx/0xc58bf999ba545b270ce00e45cf427bd36db4d556e7713616c8514b8beadec6f5](https://etherscan.io/tx/0xc58bf999ba545b270ce00e45cf427bd36db4d556e7713616c8514b8beadec6f5)
 ```
 0 _gameId     bytes32 d3113f46a630f4898d0dbd9d6c7fe724ffaf8371f12819653ba5a1f106720d5c
 1 _hostSecret uint8   1
@@ -64,12 +64,12 @@ Disputes.
 3 _isHost               bool     true
 4 _hashOfOpponentSecret bytes32  803cce932639aeae95d449a01b8ed52794b19f2cc039c058cfdedcd00fe461e9
 ```
-https://etherscan.io/tx/0xd0efa4f200e103095d1e149af79fc15e7b41b1908c3321bf7b02d1d77dc6063e
+[https://etherscan.io/tx/0xd0efa4f200e103095d1e149af79fc15e7b41b1908c3321bf7b02d1d77dc6063e](https://etherscan.io/tx/0xd0efa4f200e103095d1e149af79fc15e7b41b1908c3321bf7b02d1d77dc6063e)
 
 An opened dispute can be closed by the dispute opener or resolved by the opponent:
 * Resolving Dispute. As soon as a dispute has been opened, the opponent can resolve it by calling `resolveDispute` (params are the same as for `openDispute`). Then the smart contract calculates who has won and sends the reward either to *Join* or to *Host*.
 * Closing Dispute. If the opponent doesn't resolve the dispute on time (5 minutes), the dispute opener can call `closeDisputeOnTimeout` to become the winner of the game. 
-https://etherscan.io/tx/0xc269952867cbad250aee7daa6d59377a67b626268cb80c600c6e847188f8c917
+[https://etherscan.io/tx/0xc269952867cbad250aee7daa6d59377a67b626268cb80c600c6e847188f8c917](https://etherscan.io/tx/0xc269952867cbad250aee7daa6d59377a67b626268cb80c600c6e847188f8c917)
 ```
 0 _gameId bytes32 d13b28ea8eb2f0b56198f9dfe37eb971c61b1e3530f077cc097070e7a321997b
 ```
