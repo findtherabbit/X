@@ -6,6 +6,11 @@ Since its cryptocurrency you will make your bets with, you will need a browser p
 
 If you follow our recommendations, **install the plugin to your browser** and **create an account there**.
 
+### Objective
+The objective of the game is to guess correctly where your opponent chose to hide the rabbit in or you could also opt to be a game host and hide the rabbit yourself.
+
+At this moment in time, you could place bets with your #ETH or #POA tokens, and the good thing is that you have 50% chance to win no matter how many rounds you decide to play. The sole fact that picking the hat logic is entirely controlled by your choice makes this p2p game truly exciting and unpredictable.
+
 ### Playing on mobile platform
 If you are more of a mobile gaming guy, please use the [Trust Wallet](https://trustwallet.com/) app.
 
